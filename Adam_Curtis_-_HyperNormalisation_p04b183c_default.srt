@@ -1,129 +1,123 @@
-WEBVTT
-Kind: captions
-Language: en
 
-00:00:08.560 --> 00:00:12.600
-MUSIC: The Vanishing American Family by Scuba Z
+00:00:08.560 --> 00:00:20.600
+<i>♫ The Vanishing American Family - Scuba Z ♫</i>
 
 00:00:25.960 --> 00:00:27.960
-EXPLOSION
+(EXPLOSIÓN)
 
 00:00:29.120 --> 00:00:31.360
-We live in a strange time.
+Vivimos tiempos extraños.
 
 00:00:31.360 --> 00:00:33.400
-Extraordinary events keep happening
+Suceden eventos extraordinarios
 
 00:00:33.400 --> 00:00:36.160
-that undermine the stability of our world.
+que socavan la estabilidad de nuestro mundo.
 
 00:00:36.160 --> 00:00:38.360
-Suicide bombs, waves of refugees,
+Bombas suicidas, olas de refugiados,
 
 00:00:38.360 --> 00:00:41.320
 Donald Trump, Vladimir Putin,
 
 00:00:41.320 --> 00:00:42.680
-even Brexit.
+incluso el Brexit.
 
 00:00:43.760 --> 00:00:45.680
-EXPLOSION
+(EXPLOSIÓN)
 
 00:00:45.680 --> 00:00:49.680
-Yet those in control seem unable to deal with them,
+Sin embargo, aquellos que estan en el poder parecen incapaces de lidiar con ello,
 
 00:00:49.680 --> 00:00:51.320
-and no-one has any vision
+y nadie tiene una visión
 
 00:00:51.320 --> 00:00:54.000
-of a different or a better kind of future.
+de un futuro mejor o diferente.
 
-00:00:54.000 --> 00:00:56.720
-MUSIC: Something I Can Never Have by Nine Inch Nails
+00:00:54.000 --> 00:00:56.000
+<i>♫ Something I Can Never Have - Nine Inch Nails ♫</i>
 
-00:00:56.720 --> 00:01:00.240
-This film will tell the story of how we got to this strange place.
+00:00:56.000 --> 00:01:00.240
+Este documental te contará la historia de cómo llegamos a este extraño lugar.
 
 00:01:02.120 --> 00:01:04.560
-It is about how, over the past 40 years,
+Trata de cómo, durante los últimos 40 años,
 
 00:01:04.560 --> 00:01:08.640
-politicians, financiers and technological utopians,
+políticos, financieros y utopistas tecnológicos,
 
 00:01:08.640 --> 00:01:12.360
-rather than face up to the real complexities of the world,
+en vez de enfrentarse a las complejidades reales del mundo,
 
 00:01:12.360 --> 00:01:14.160
-retreated.
+simplemente se retiraron.
 
 00:01:15.560 --> 00:01:19.400
-Instead, they constructed a simpler version of the world
+En su lugar, construyeron una versión más simple del mundo
 
 00:01:19.400 --> 00:01:21.720
-in order to hang on to power.
+para mantenerse en el poder.
 
 00:01:21.720 --> 00:01:25.560
-And as this fake world grew, all of us went along with it,
+Y como este falso mundo creció, todos nosotros crecimos con él,
 
 00:01:25.560 --> 00:01:28.640
-because the simplicity was reassuring.
+porque la simplicidad era tranquilizante.
 
 00:01:31.640 --> 00:01:34.840
-Even those who thought they were attacking the system -
+Incluso aquellos que creían estar atacando al sistema
 
 00:01:34.840 --> 00:01:37.800
-the radicals, the artists, the musicians,
+— los radicales, los artistas, los músicos,
 
 00:01:37.800 --> 00:01:39.760
-and our whole counterculture -
+y toda nuestra contracultura —
 
 00:01:39.760 --> 00:01:42.800
-actually became part of the trickery,
+en realidad se convirtieron en parte del engaño,
 
 00:01:42.800 --> 00:01:47.480
-because they, too, had retreated into the make-believe world,
+porque ellos también se retiraron al mundo de la ficción,
 
 00:01:47.480 --> 00:01:50.880
-which is why their opposition has no effect
+por eso su oposición no tiene efecto
 
 00:01:50.880 --> 00:01:52.800
-and nothing ever changes.
-
-00:01:52.800 --> 00:01:55.200
-MUSIC: The Vanishing American Family by Scuba Z
+y nada cambia.
 
 00:01:55.200 --> 00:01:57.440
-But this retreat into a dream world
+Pero la retirada a este mundo de sueños
 
 00:01:57.440 --> 00:02:01.640
-allowed dark and destructive forces to fester and grow outside.
+permitió que fuerzas oscuras y destructivas crezcan y envenenen el mundo real.
 
 00:02:04.120 --> 00:02:07.520
-Forces that are now returning to pierce the fragile surface
+Las mismas que ahora vienen a perforar la superficie frágil
 
 00:02:07.520 --> 00:02:10.560
-of our carefully constructed fake world.
+de nuestro, cuidadosamente construido, falso mundo.
 
 00:02:13.360 --> 00:02:16.880
-# In dreams
+<i>♫ En sueños ♫</i>
 
 00:02:16.880 --> 00:02:21.160
-# I live... #
+<i>♫ Yo vivo... ♫</i>
 
 00:02:45.520 --> 00:02:49.600
-The story begins in two cities at the same moment in 1975.
+La historia comienza en dos ciudades al mismo tiempo, en 1975.
 
 00:02:51.920 --> 00:02:53.800
-One is New York.
+Una es Nueva York.
 
 00:02:53.800 --> 00:02:55.120
-The other is Damascus.
+La otra es Damasco.
 
 00:02:57.360 --> 00:03:00.680
-It was a moment when two ideas about how it might be possible
+Fue un momento cuando dos ideas sobre cómo podría ser posible
 
 00:03:00.680 --> 00:03:03.880
-to run the world without politics first took hold.
+dirigir el mundo sin política, tomó lugar por primera vez.
 
 00:03:12.200 --> 00:03:16.640
 In 1975, New York City was on the verge of collapse.
